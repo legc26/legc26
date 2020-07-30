@@ -11,8 +11,7 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 - 🌐 Check my [Portfolio](https://legc26.github.io/Portafolio/) 
 -    :mailbox: You can reach me with the links below
 
-
-[![Instragram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.instagram.com/legc26/)
+<a href="https://https://www.instagram.com/legc26/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=28></a>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlegc26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgonzalez26/)
 [![legc26.com](https://img.shields.io/badge/-LEGC26.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://legc26.github.io/Portafolio/)

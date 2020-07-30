@@ -1,6 +1,6 @@
 [![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
 
-### Hi, I'm [Luis Gonzalez!](https://legc26.github.io/Portafolio/) 👋
+### Hi, I'm [Luis Gonzalez](https://legc26.github.io/Portafolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Front End developer from Santiago de Chile. I have rich experience in web site design and building and customization, also I am good at Wordpress, JavaScript and other tools. I have a passion for sleek user-friendly design and I love writing clean and maintainable code, working with other people on solving tough problems, and learning new things along the way. For fun, I enjoy traveling, play videogames, and going to music festivals.
 

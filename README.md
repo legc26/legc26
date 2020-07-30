@@ -1,8 +1,7 @@
 [![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
-
 ## Hi, I'm [Luis Gonzalez](https://legc26.github.io/Portafolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Front End developer from Santiago de Chile. I have rich experience in web site design and building and customization, also I am good at Wordpress, JavaScript and other tools. I have a passion for sleek user-friendly design and I love writing clean and maintainable code, working with other people on solving tough problems, and learning new things along the way. For fun, I enjoy traveling, play videogames, and going to music festivals.
+<i>Front End developer</i> from Santiago de Chile. I have rich experience in web site design and building and customization, also I am good at Wordpress, JavaScript and other tools. I have a passion for sleek user-friendly design and I love writing clean and maintainable code, working with other people on solving tough problems, and learning new things along the way. For fun, I enjoy traveling, play videogames, and going to music festivals.
 
 -   :mortar_board: Actually I study Computer Engineering at Inacap technological University in Santiago, Chile.
 -   :test_tube: I’m currently learning React;
@@ -15,6 +14,8 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlegc26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgonzalez26/)
 [![legc26.com](https://img.shields.io/badge/-LEGC26.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://legc26.github.io/Portafolio/)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Technologies I have used <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 

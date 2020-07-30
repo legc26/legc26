@@ -3,6 +3,8 @@
 
 ### Hi, I'm [Luis Gonzalez!](https://legc26.github.io/Portafolio/) 👋
 
+Front End developer from Santiago de Chile. I have rich experience in web site design and building and customization, also I am good at Wordpress, JavaScript and other tools. I have a passion for sleek user-friendly design and I love writing clean and maintainable code, working with other people on solving tough problems, and learning new things along the way. For fun, I enjoy traveling, play videogames, and going to music festivals.
+
 -   :mortar_board: Actually I study Computer Engineering at Inacap technological University in Santiago, Chile.
 -   :test_tube: I’m currently learning React;
 -   :speech_balloon: Ask me about anything, I am happy to help you!

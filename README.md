@@ -1,7 +1,7 @@
-**legc26/legc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://media.giphy.com/media/UTqPko9B4LHRdllrbB/source.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
 
-##### Hi, I'm Luis👋
+[![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
+
+##### Hi, I'm [Luis Gonzalez!](https://legc26.github.io/Portafolio/) 👋
 
 -   :mortar_board: Actually I study Computer Engineering at Inacap technological University in Santiago, Chile.
 -   :test_tube: I’m currently learning React;

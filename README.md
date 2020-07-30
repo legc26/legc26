@@ -8,7 +8,9 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 -   :speech_balloon: Ask me about anything, I am happy to help you!
 - 😄 Pronouns: "Lucho" & "Chino"
 - 📝 Check my [Resume]()
+- 🌐 Check my [Portfolio](https://legc26.github.io/Portafolio/) 
 -    :mailbox: You can reach me with the links below
+
 
 [![Instragram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.instagram.com/legc26/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlegc26@gmail.com)

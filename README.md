@@ -16,7 +16,7 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgonzalez26/)
 [![legc26.com](https://img.shields.io/badge/-LEGC26.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://legc26.github.io/Portafolio/)
 
-### Technologies I have used
+### Technologies I have used <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
@@ -26,7 +26,7 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 
-### 🔧 Tools I have worked with
+### Tools I have worked with 🔧 
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)

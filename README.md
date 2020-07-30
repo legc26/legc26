@@ -19,13 +19,16 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 
 ### Technologies I have used <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)
+![Sass](https://img.shields.io/badge/-Sass-222222?style=flat&logo=sass&logoColor=violet)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=blueviolet)
+![Wordpress](https://img.shields.io/badge/-Wordpress-222222?style=flat&logo=Wordpress)
 
 ### Tools I have worked with 🔧 
 
@@ -34,9 +37,9 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-222222?style=flat&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-222222?style=flat&logo=Jetbrains)
-![Webstorm](https://img.shields.io/badge/-Webstorm-222222?style=flat&logo=Webstorm)
+![Webstorm](https://img.shields.io/badge/-Webstorm-222222?style=flat&logo=Webstorm&logoColor=blue)
 
 
 ### Some of my favorite open source projects

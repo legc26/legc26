@@ -1,4 +1,3 @@
-
 [![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
 
 ### Hi, I'm [Luis Gonzalez!](https://legc26.github.io/Portafolio/) 👋
@@ -8,9 +7,9 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 -   :mortar_board: Actually I study Computer Engineering at Inacap technological University in Santiago, Chile.
 -   :test_tube: I’m currently learning React;
 -   :speech_balloon: Ask me about anything, I am happy to help you!
--   :mailbox: You can reach me with the links below
 - 😄 Pronouns: "Lucho" & "Chino"
-- 📝[Resume]()
+- 📝 Check my [Resume]()
+-    :mailbox: You can reach me with the links below
 
 [![Instragram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.instagram.com/legc26/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlegc26@gmail.com)

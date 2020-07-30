@@ -20,7 +20,7 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 ### Technologies I have used <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
@@ -34,6 +34,10 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-222222?style=flat&logo=visual-studio-code)
+![Jetbrains](https://img.shields.io/badge/-Jetbrains-222222?style=flat&logo=Jetbrains)
+![Webstorm](https://img.shields.io/badge/-Webstorm-222222?style=flat&logo=Webstorm)
+
 
 ### Some of my favorite open source projects
 
@@ -43,6 +47,7 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=legc26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Legc26 GitHub Stats" />

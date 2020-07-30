@@ -1,7 +1,7 @@
 
 [![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
 
-##### Hi, I'm [Luis Gonzalez!](https://legc26.github.io/Portafolio/) 👋
+### Hi, I'm [Luis Gonzalez!](https://legc26.github.io/Portafolio/) 👋
 
 -   :mortar_board: Actually I study Computer Engineering at Inacap technological University in Santiago, Chile.
 -   :test_tube: I’m currently learning React;
@@ -41,5 +41,8 @@
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+
+![legc26 github stats](https://github-readme-stats.vercel.app/api?username=legc26&show_icons=true&hide_border=true)
+
 <!--
 

@@ -1,6 +1,6 @@
 [![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
 
-### Hi, I'm [Luis Gonzalez](https://legc26.github.io/Portafolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm [Luis Gonzalez](https://legc26.github.io/Portafolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Front End developer from Santiago de Chile. I have rich experience in web site design and building and customization, also I am good at Wordpress, JavaScript and other tools. I have a passion for sleek user-friendly design and I love writing clean and maintainable code, working with other people on solving tough problems, and learning new things along the way. For fun, I enjoy traveling, play videogames, and going to music festivals.
 
@@ -16,7 +16,7 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgonzalez26/)
 [![legc26.com](https://img.shields.io/badge/-LEGC26.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://legc26.github.io/Portafolio/)
 
-##### Languages I have used
+### Languages I have used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
@@ -24,7 +24,7 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
-##### Some of the technologies I have worked with
+### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
@@ -34,7 +34,7 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 
-##### Some of my favorite open source projects
+### Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](<https://img.shields.io/badge/-Dark&#160;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485>)](https://github.com/darkreader/darkreader)
@@ -43,7 +43,7 @@ Front End developer from Santiago de Chile. I have rich experience in web site d
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-![legc26 github stats](https://github-readme-stats.vercel.app/api?username=legc26&show_icons=true&hide_border=true)
+## ![legc26 github stats](https://github-readme-stats.vercel.app/api?username=legc26&show_icons=true&hide_border=true)
 
 <!--
 

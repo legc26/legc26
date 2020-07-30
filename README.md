@@ -11,8 +11,8 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 - 🌐 Check my [Portfolio](https://legc26.github.io/Portafolio/) 
 -    :mailbox: You can reach me with the links below
 
-<a href="https://www.instagram.com/legc26/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=28></a>
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlegc26@gmail.com)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-important?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/legc26/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlegc26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgonzalez26/)
 [![legc26.com](https://img.shields.io/badge/-LEGC26.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://legc26.github.io/Portafolio/)
 
@@ -23,6 +23,7 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=violet)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)

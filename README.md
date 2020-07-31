@@ -1,5 +1,6 @@
-[![Header](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)](https://www.youtube.com/watch?v=izGwDsrQ1eQ)
+![header](https://github.com/legc26/legc26/blob/master/Gif-LEGC.gif)
 ## Hi, I'm [Luis Gonzalez](https://legc26.github.io/Portafolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 Welcome to my page!
 I'm <i>Front End developer</i> from Santiago, Chile.
 

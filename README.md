@@ -8,7 +8,7 @@ I'm <i>Front End developer</i> from Santiago, Chile.
 -   :test_tube: I’m currently learning React;
 -   :speech_balloon: Ask me about anything, I am happy to help you!
 - 😄 Pronouns: "Lucho" & "Chino"
-- 📝 Check my [Resume]()
+- 📝 Check my [Resume](https://drive.google.com/file/d/1rxSVcZysoycZJOcihWK3Vln4ZyCrqc63/view)
 - 🌐 Check my [Portfolio](https://legc26.me/) 
 -    :mailbox: You can reach me with the links below
 
